@@ -17,3 +17,7 @@ These packages are included in the requirements.txt file in this folder.
 The simulation is contained in the Jupyter Notebook: schelling_model.ipynb.
 
 All code, including classes, simulations, visualizations and further analysis are included in the notebook file.
+
+## Report and findings
+You can read the final report for all findings: [Thompson CSC 555 Project 1.pdf
+]([https://github.com/ecthompsoncodes/FDS-Epi-Project/files/15179439/Trustworthy_AI_for_Epidemiology_Applications.pdf](https://github.com/ecthompsoncodes/Multi-Agent-Segregation-Model/blob/main/Thompson%20CSC%20555%20Project%201.pdf))
